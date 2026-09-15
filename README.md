@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=scottlawrieai&show_icons=true&hide_border=false&title_color=0969da&icon_color=0969da&include_all_commits=true" alt="Scott Lawrie's GitHub Stats" />
+<img align="right" width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scottlawrieai&theme=default" alt="Scott Lawrie's GitHub Stats" />
 
 I'm **Scott Lawrie**, Chief Growth Officer at [Simple Online Healthcare](https://simpleonlinehealthcare.com) — a digital health group operating **Simple Online Pharmacy** (UK), **Simple Online Doctor** (AU) and **Kapsel** (DE). I helped scale the group from £6m to £150m ARR in five years.
 
